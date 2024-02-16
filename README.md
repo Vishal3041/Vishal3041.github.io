@@ -1,7 +1,7 @@
 # Software Developer / Data Scientist
 
 #### Technical Skills: Python, SQL, Node.js, Tableau
-![Profile](assests/Screenshot 2024-02-16 at 1.59.53 PM.png)
+![Profile](/assests/Screenshot 2024-02-16 at 1.59.53 PM.png)
 
 ## Education
 - M.S., Data Analytics	| San Jose State University (_May 2025_)	 			        		
