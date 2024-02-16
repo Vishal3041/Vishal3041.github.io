@@ -21,9 +21,11 @@ rate by a notable 15%.
 **Software Developer @ Bigtree Entertainment, Mumbai, India (Entertainment Domain) (_Dec 2021 - May 2023_)**
 - Confronted with legacy .NET code impacting performance. Led a project to replace it with Golang. Spearheaded the replacement effort and achieved a remarkable 34% performance boost in the system.
 - Designed the system using REST and GRPC APIs, JavaScript, Redis, MongoDB, Aerospike, and MySQL. Executed the design of a flexible offer type which resulted in a significant 10% boost in customer retention and acquisition.
+  
 **Software Developer @ Halfcute, Bangalore, India (2020 Startup) (_Mar 2021 - Oct 2021_)**
 - Implemented automation for invoice and settlement generation using Node.js. Enhanced productivity by an impressive 12%.
 - Developed the entire panel, incorporating various logics and backend validation rules giving a notable 11% increase in customer acquisition.
+  
 **Software Developer @ Knorex, Pune, India (Advertising Domain) (_Aug 2020 - Dec 2020_)**
 - Engineered software using Python, Docker, and MySQL. Developed software for spending analysis, enabling targeted ad deployment and efficient email communication with advertisers.
 - Integrated Google search term API into the company platform to track keyword performance and sentiment. Increased conversion rate by a notable 15%.
