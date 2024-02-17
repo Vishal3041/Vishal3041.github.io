@@ -20,7 +20,7 @@
 - Integrated Google search term API into the company platform to track keyword performance and sentiment. Increased conversion rate by a notable 15%.
 
 
-## Software Domain
+## Software Domain Projects
 
 ### Railway Ops
 - Led a comprehensive project to enhance railway administration insights using Python, Snowflake, AWS S3, SnowSQL, Tableau, and Excel, augmenting a 1.8 lakh-station dataset with crucial latitude, longitude, and state information for each station, and achieving improved analytical rich data.
@@ -31,14 +31,14 @@
 - Ensured data integrity through stringent checks on various fields. Enabled users to update and delete employee records seamlessly. The system featured an intuitive home page for easy navigation built over HTML, CSS at the front-end.
 
 
-## Data Analytics Domain
+## Data Analytics Domain Projects
 
 ### F1 Visualization
 - Designed end-to-end execution of an F1 visualization project, collecting a comprehensive dataset from Kaggle. Conducted meticulous data preprocessing and cleaning in Python. Loaded and managed the dataset in MySQL for streamlined accessibility.
 - Utilized Tableau to create dynamic visualizations, including lap-by-lap insights, player comparisons, and team performances across various venues and countries. The project provides valuable analytics for players, enabling them to strategize and enhance performance in subsequent races.
 
 
-## Data Science Domain
+## Data Science Domain Projects
 
 ### Cancer Prediction Using Machine Learning Technology System
 - Developed a cancer prediction system leveraging Python, scikit-learn, pandas, and NumPy within Visual Studio Code, capable of forecasting a person's likelihood of developing cancer based on extensive training with a large dataset.
