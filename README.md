@@ -1,11 +1,11 @@
 # Software Developer / Data Scientist
 
-#### Technical Skills:
-• Programming: Python, C++, Golang, JavaScript, HTML, CSS
-• Tools: Bitbucket, Postman, Jira, Git, Tableau, Looker, Robo 3T, MySQL Workbench
-• Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, TensorFlow, Keras, Selenium, Beautiful Soup
-• Databases: MySQL, MongoDB, PostgreSQL, Redis, Aerospike, Neo4j, Snowflake, AWS S3
-• DevOps: Docker, Kubernetes
+## Technical Skills:
+- **Programming:** Python, C++, Golang, JavaScript, HTML, CSS
+- **Tools:** Bitbucket, Postman, Jira, Git, Tableau, Looker, Robo 3T, MySQL Workbench
+- **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, TensorFlow, Keras, Selenium, Beautiful Soup
+- **Databases:** MySQL, MongoDB, PostgreSQL, Redis, Aerospike, Neo4j, Snowflake, AWS S3
+- **DevOps:** Docker, Kubernetes
 
 ## Education
 - M.S., Data Analytics	| San Jose State University (_May 2025_)	 			        		
