@@ -19,9 +19,9 @@
 - Engineered software using Python, Docker, and MySQL. Developed software for spending analysis, enabling targeted ad deployment and efficient email communication with advertisers.
 - Integrated Google search term API into the company platform to track keyword performance and sentiment. Increased conversion rate by a notable 15%.
 
-## Projects
 
-## Software Projects
+## Software Domain
+
 ### Railway Ops
 - Led a comprehensive project to enhance railway administration insights using Python, Snowflake, AWS S3, SnowSQL, Tableau, and Excel, augmenting a 1.8 lakh-station dataset with crucial latitude, longitude, and state information for each station, and achieving improved analytical rich data.
 - Orchestrated end-to-end data preparation visualization and analysis, employing AWS S3 as a seamless data lake integrated with Snowflake, and implementing a three-tier schema—raw data, refined attributes, and organized tables—for sophisticated analysis and visualization using Tableau and Python.
@@ -30,12 +30,16 @@
 - Configured a comprehensive Employee Management System utilizing MySQL as the database also saving hashed user passwords in the database. Incorporated a validation and authentication API for secure username and password verification using express- validator module in node.js.
 - Ensured data integrity through stringent checks on various fields. Enabled users to update and delete employee records seamlessly. The system featured an intuitive home page for easy navigation built over HTML, CSS at the front-end.
 
-## Data Analytics Projects
+
+## Data Analytics Domain
+
 ### F1 Visualization
 - Designed end-to-end execution of an F1 visualization project, collecting a comprehensive dataset from Kaggle. Conducted meticulous data preprocessing and cleaning in Python. Loaded and managed the dataset in MySQL for streamlined accessibility.
 - Utilized Tableau to create dynamic visualizations, including lap-by-lap insights, player comparisons, and team performances across various venues and countries. The project provides valuable analytics for players, enabling them to strategize and enhance performance in subsequent races.
 
-## Data Science Projects
+
+## Data Science Domain
+
 ### Cancer Prediction Using Machine Learning Technology System
 - Developed a cancer prediction system leveraging Python, scikit-learn, pandas, and NumPy within Visual Studio Code, capable of forecasting a person's likelihood of developing cancer based on extensive training with a large dataset.
 - Engineered a data preprocessing pipeline incorporating Standard Scaler, coupled with the KNN model for cancer prediction. Employed K-fold cross-validation for a robust evaluation process, assessing accuracy of 97% using metrics such as accuracy_score, confusion-matrix, and classification report. Streamlined the entire process to enhance model performance.
