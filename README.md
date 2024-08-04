@@ -1,7 +1,5 @@
 # Personal Portfolio
 
-<img width="1440" alt="Screenshot 2023-09-24 at 11 48 11 PM" src="https://github.com/AshrithaB/ashritha/assets/47385051/f7850375-2cfc-436b-880c-0c3da6578bae">
-
 ## Overview
 
 A personal portfolio website which is visually appealing and user-friendly platform where you find my skills, experience, and achievements, offering a comprehensive introduction to my professional identity.
@@ -12,7 +10,7 @@ A personal portfolio website which is visually appealing and user-friendly platf
 * Responsive design
 * Simple & modern technologies (React, JavaScript and Tailwind CSS)
 
-Website URL : [ashritha.live](https://ashritha.live/)
+Website URL : [vishaltripathi.live](https://vishaltripathi.live/)
 
 If you like this, please leave a ⭐! Thank you!
 
