@@ -1,28 +1,40 @@
 
 export const techStack = [
 
+  { name: "Go", link: "https://cdn.worldvectorlogo.com/logos/golang-gopher.svg", alt:"go-programming"},
+  { name: "C++", link: "https://img.icons8.com/color/48/c-plus-plus-logo.png", alt:"c-plus-plus"},
+  { name: "NodeJS", link: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" },
   { name: "Python", link: "https://img.icons8.com/color/48/python--v1.png", alt:"python" },
   { name: "Javascript", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" },
+  
+  { name: "Tailwind CSS", link: "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" },
   { name: "HTML", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" },
   { name: "React", link: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" },
   { name: "CSS", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" },
+  { name: "Aerospike", link: "https://asset.brandfetch.io/id2qaO5YSb/idcb0jwaia.svg?updated=1717958091166", alt:"Aerospike" },
 
-  { name: "npm.js", link: "https://img.icons8.com/color/480/npm.png", alt:"npm" },
+  // { name: "npm.js", link: "https://img.icons8.com/color/480/npm.png", alt:"npm" },
+  // { name: "SQL", link: "https://img.icons8.com/ios/100/sql.png", alt:"sql" },
+  // { name: "MS SQL Server", link: "https://img.icons8.com/color/480/microsoft-sql-server.png", alt:"microsoft-sql-server" },
+  // { name: "Explainable AI (XAI)", link: "https://img.icons8.com/plasticine/100/ai.png", alt:"ai" },
+  // { name: "Anaconda", link: " https://img.icons8.com/fluency/240/anaconda--v2.png", alt:"anaconda--v2" },
+
+  { name: "MySQL", link: "https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg", alt:"mysql" },
+  { name: "Mongo DB", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" },
   { name: "PostgreSQL", link: "https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg", alt:"postgresql" },
   { name: "Neo4j", link: "https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg", alt:"neo4j" },
   { name: "Redis", link: "https://www.vectorlogo.zone/logos/redis/redis-ar21.svg", alt: "redis" },
-  { name: "NodeJS", link: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" },
 
-  { name: "SQL", link: "https://img.icons8.com/ios/100/sql.png", alt:"sql" },
-  { name: "MySQL", link: "https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg", alt:"mysql" },
-  { name: "Mongo DB", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" },
   { name: "Big Data", link: "https://img.icons8.com/ios-filled/100/big-data.png", alt:"big-data" }, 
   { name: "Hadoop", link: "https://img.icons8.com/color/480/hadoop-distributed-file-system.png", alt:"hadoop-distributed-file-system" },
+  { name: "Apache Spark", link: "https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg", alt:"apache-spark" },
+  { name: "Kakfa", link: "https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg", alt:"kafka" },
+  { name: "AWS", link: "https://img.icons8.com/color/480/amazon-web-services.png", alt:"amazon-web-services" },
 
+  { name: "Docker", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" },
   { name: "Power BI", link: "https://img.icons8.com/color/480/power-bi.png", alt:"power-bi" },
   { name: "Tableau", link: "https://img.icons8.com/color/480/tableau-software.png", alt:"tableau-software" },
   { name: "Excel", link: "https://img.icons8.com/color/480/microsoft-excel-2019--v1.png", alt:"microsoft-excel-2019--v1" },
-  { name: "MS SQL Server", link: "https://img.icons8.com/color/480/microsoft-sql-server.png", alt:"microsoft-sql-server" },
   { name: "Git", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" },
   
   { name: "NumPy", link: "https://img.icons8.com/color/480/numpy.png", alt:"numpy" },
@@ -34,30 +46,16 @@ export const techStack = [
   { name: "Machine Learning", link: "https://img.icons8.com/stickers/100/artificial-intelligence.png", alt:"artificial-intelligence" },
   { name: "Deep Learning", link: "https://img.icons8.com/external-becris-lineal-becris/64/external-deep-learning-artificial-intelligence-becris-lineal-becris.png", alt:"deep-learning" },
   { name: "Jupyter", link: "https://img.icons8.com/fluency/240/jupyter.png", alt:"jupyter" },
-  { name: "Explainable AI (XAI)", link: "https://img.icons8.com/plasticine/100/ai.png", alt:"ai" },
   { name: "Generative AI", link: "https://img.icons8.com/nolan/256/chatgpt.png", alt:"chatgpt"},
+  { name: "Selenium", link: "https://img.icons8.com/stickers/400/selenium-test-automation.png", alt:"selenium-test-automation" }
 
-  { name: "Tailwind CSS", link: "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" },
-  { name: "Aerospike", link: "https://asset.brandfetch.io/id2qaO5YSb/idcb0jwaia.svg?updated=1717958091166", alt:"Aerospike" },
-  { name: "Selenium", link: "https://img.icons8.com/stickers/400/selenium-test-automation.png", alt:"selenium-test-automation" },
-  { name: "Anaconda", link: " https://img.icons8.com/fluency/240/anaconda--v2.png", alt:"anaconda--v2" },
-  { name: "Docker", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" },
-
-  { name: "Go", link: "https://cdn.worldvectorlogo.com/logos/golang-gopher.svg", alt:"go-programming"},
-  { name: "C++", link: "https://img.icons8.com/color/48/c-plus-plus-logo.png", alt:"c-plus-plus"},
-  { name: "Apache Spark", link: "https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg", alt:"apache-spark" },
-  { name: "Kakfa", link: "https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg", alt:"kafka" },
-  { name: "AWS", link: "https://img.icons8.com/color/480/amazon-web-services.png", alt:"amazon-web-services" }
-  
 ]
-
 
 export const contactLinks = [
   { name: 'LinkedIn', url1: 'https://img.icons8.com/color/48/linkedin.png', url2: 'https://img.icons8.com/color/48/linkedin.png', link: "https://www.linkedin.com/in/vishal-tripathi1497/"},
   { name: 'Github', url1: 'https://img.icons8.com/sf-regular-filled/48/github.png', url2: "https://img.icons8.com/material-outlined/48/FFFFFF/github.png", link :'https://github.com/Vishal3041'},
   { name: 'Email', url1: 'https://img.icons8.com/bubbles/48/new-post.png', url2: "https://img.icons8.com/bubbles/48/new-post.png", link :"mailto:vishaltripathi1497@gmail.com"}
 ]
-
 
 export const projects = [
   { 

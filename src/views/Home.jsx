@@ -21,7 +21,7 @@ const Home = () => {
           <div className="lg:text-left">
             <h1 className="mx-auto text-4xl tracking-tight font-extrabold text-gray-900 text-left py-8 sm:text-5xl md:text-6xl">
               <motion.span
-                className={darkMode ? "block text-white" : " text-bkack"}
+                className={darkMode ? "block text-white" : " text-black"}
               >
                 Hi, I am Vishal
               </motion.span>

@@ -8,7 +8,7 @@ import logoImage from '../assets/Logo.png';
 
 const Navbar = () => {
   const theme = useContext(ThemeContext);
-  const [toggle, setToggle] = useState(true);
+  const [toggle, setToggle] = useState(false);
   const darkMode = theme.state.darkMode;
   const links = [
     {
@@ -156,8 +156,8 @@ const Navbar = () => {
                   activeClass={"text-white bg-blue-500"}
                   className={
                     darkMode
-                      ? "hover:bg-blue-500 text-black block px-3 py-2 rounded-md text-base font-medium mt-1 hover:text-white"
-                      : "hover:bg-blue-500 text-white block px-3 py-2 rounded-md text-base font-medium mt-1 hover:text-white"
+                      ? "hover:bg-blue-500 text-white block px-3 py-2 rounded-md text-base font-medium mt-1 hover:text-white"
+                      : "hover:bg-blue-500 text-black block px-3 py-2 rounded-md text-base font-medium mt-1 hover:text-white"
                   }
                   spy={true}
                   smooth={true}
