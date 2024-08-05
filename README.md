@@ -10,7 +10,7 @@ A personal portfolio website which is visually appealing and user-friendly platf
 * Responsive design
 * Simple & modern technologies (React, JavaScript and Tailwind CSS)
 
-Website URL : [vishaltripathi.live](https://vishaltripathi.live/)
+Website URL : [vishal3041.github.io](https://vishal3041.github.io)
 
 If you like this, please leave a ⭐! Thank you!
 
