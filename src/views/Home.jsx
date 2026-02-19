@@ -30,11 +30,11 @@ const Home = () => {
                   steps={[
                     "Software Engineer",
                     1000,
-                    "Web Developer",
+                    "Backend Developer",
                     1000,
-                    "Data Analyst",
+                    "DevOps Engineer",
                     1000,
-                    "Data Scientist",
+                    "Cloud Infrastructure Engineer",
                     1000
                   ]}
                   loop={Infinity}
@@ -48,7 +48,7 @@ const Home = () => {
                   : "mt-3 text-base text-black sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0"
               }
             >
-              My interests lie in software engineering, web development and data analysis. I am also a graduate student pursuing MS in Data Analytics at San Jose State University and have 3 years of Software Developer experience.
+              Software Engineer with 3+ years of experience building cloud-native platforms and workflow automation systems. I specialize in Python and Go, designing scalable distributed systems on Kubernetes using Terraform and Helm. Currently building cost-efficient Spark-based data platforms at Granica, focused on automation, reliability, and multi-cloud infrastructure.
             </p>
             <div className="flex md:justify-start ">
               {contactLinks.map((el) => (
@@ -64,7 +64,7 @@ const Home = () => {
             <div className="mt-5 sm:mt-8 sm:flex  lg:justify-start">
               <div className="mt-3 sm:mt-0 cursor-pointer w-1/2">
                 <a className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-500 hover:scale-105 md:py-4 md:text-lg md:px-10"
-                  href="https://drive.google.com/file/d/1kQDLmdNa1dzCv1WdmLQ247FxEHzUsmeY/view?usp=sharing" target="_blank" >
+                  href="https://drive.google.com/file/d/1RGe5c3o3BrOJaXOOJmxkTr2ZN70HPYnM/view?usp=sharing" target="_blank" >
                   Resume
                   </a>
               </div>
