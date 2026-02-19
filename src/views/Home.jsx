@@ -30,12 +30,12 @@ const Home = () => {
                   steps={[
                     "Software Engineer",
                     1000,
-                    "Backend Developer",
-                    1000,
+                    // "Backend Developer",
+                    // 1000,
                     "DevOps Engineer",
-                    1000,
-                    "Cloud Infrastructure Engineer",
                     1000
+                    // "Cloud Infrastructure Engineer",
+                    // 1000
                   ]}
                   loop={Infinity}
                 />
