@@ -64,7 +64,7 @@ const Home = () => {
             <div className="mt-5 sm:mt-8 sm:flex  lg:justify-start">
               <div className="mt-3 sm:mt-0 cursor-pointer w-1/2">
                 <a className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-500 hover:scale-105 md:py-4 md:text-lg md:px-10"
-                  href="https://drive.google.com/file/d/1RGe5c3o3BrOJaXOOJmxkTr2ZN70HPYnM/view?usp=sharing" target="_blank" >
+                  href="https://drive.google.com/file/d/170PtUs3trf8frRHHIxuJRduJE31Olzh2/view?usp=sharing" target="_blank" >
                   Resume
                   </a>
               </div>
